@@ -42,3 +42,4 @@ Mac and linux have quite similar approach of compiling and executing the code al
 ## Daily Activities
 
 - [Day 1](Day1/Readme.md)  -> **Recalling Basics**
+- [Day 2](Day2/Readme.md)  -> **Recalling Array**
