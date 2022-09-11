@@ -1,8 +1,12 @@
 # LeetCode Practice
 
+[![wakatime](https://wakatime.com/badge/user/31d076e5-7f32-41dd-b1a2-a772c1767c0c/project/abd7dec6-fcb9-4ae4-bfd2-c1c1d97bcfa2.svg)](https://wakatime.com/badge/user/31d076e5-7f32-41dd-b1a2-a772c1767c0c/project/abd7dec6-fcb9-4ae4-bfd2-c1c1d97bcfa2)
+
 [![LeetCode](./docs/LeetCode.png)](https://leetcode.com/dibeshrsubedi)
 
 This is my LeetCode Practice where i begin with revising basics of C++ to actually solving and documenting complex LeetCode problems.
+
+!["C++"](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) !["GitHub"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) !["MD"](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) !["LeetCode"](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) !["VSCode"](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) !["WakaTime"](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
 
 ## Table of Content
 
